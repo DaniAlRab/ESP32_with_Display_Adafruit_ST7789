@@ -2,7 +2,7 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_ST7789.h>
 
-// Pins for SPI communication
+// ESP Pins for SPI communication
 #define TFT_CS    15
 #define TFT_DC    2
 #define TFT_RST   5
